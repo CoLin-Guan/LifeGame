@@ -1,0 +1,4 @@
+{
+  "TestFile.py::drawTestFun::testDraw": true,
+  "TestFile.py::drawTestFun::testWidthHeight": true
+}

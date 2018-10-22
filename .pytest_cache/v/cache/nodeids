@@ -1,0 +1,9 @@
+[
+  "TestFile.py::CellTestCase::testImage",
+  "TestFile.py::CellTestCase::testPosition",
+  "TestFile.py::CellTestCase::testSize",
+  "TestFile.py::TestFun::testGameControl",
+  "TestFile.py::TestFun::testInit",
+  "TestFile.py::TestFun::testNextGeneration",
+  "TestFile.py::TestFun::testWidthHeight"
+]
